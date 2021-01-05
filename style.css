@@ -1,0 +1,16 @@
+/*  GENERAL  */
+
+body {
+  font-family: "Prompt", sans-serif;
+}
+
+/* NAVIGATION */
+
+header .navbar .navbar-nav {
+  margin: 0 auto;
+}
+header .navbar .navbar-nav li a {
+  font-size: 18px;
+  margin-left: 20px;
+  text-align: center;
+}
